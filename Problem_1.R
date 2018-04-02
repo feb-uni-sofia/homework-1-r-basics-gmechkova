@@ -1,3 +1,4 @@
+#problem 1 and 2 merged
 #problem1
 #a)
 x<-c(4,1,1,4)
